@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SAP BTP Low code no code to foray into SAP Process Automation(iRPA, Workflow) + SAP AI Business services on SAP BTP
 - 💞️ I’m looking to collaborate with people who are alredy working on SAP BTP and others who would like to become a pro in SAP BTP
 - 📫 I have around 5 years experience in - Setting RPA unit in an organization, played the role of RPA Solution architect, Business Analyst, RPA Platform Owner, RPA Project Manager etc
-- I am interested to proceed my career and with SAP BTP and leverage SAP BTP solution offerings on Automation & AI.
+- I am taking this direction in becomming SAP BTP Solution specialist and leverage SAP BTP solution offerings on Automation & AI.
 
 Fun moments: 
 I would like to convey 2 truths and a 1 lie about me, pls take a guess
