@@ -6,7 +6,7 @@
 - I am taking this direction to become an SAP BTP Solution specialist and leverage SAP BTP solution offerings on Automation & AI.
 
 Fun moments: 
-I would like to convey 2 truths and a 1 lie about me, pls take a guess
+I would like to convey 2 truths and a 1 lie about me, pls take a guess which one is a LIE!!! 
 1) I have 2 kids and a wife
 2) I would like to walk up on the escalators
 3) I was a bully at school
